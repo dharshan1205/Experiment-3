@@ -41,7 +41,7 @@ else:
 ```
 ## Output
 
-<img width="1452" height="476" alt="image" src="https://github.com/user-attachments/assets/4c2150b9-2842-448a-bd0e-0f4dfcf83c12" />
+<img width="330" height="70" alt="image" src="https://github.com/user-attachments/assets/ead631ea-6150-41f6-8e01-6c15bf2f6544" />
 
 ## Result
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
